@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:vsifiwe/backend.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:vsifiwe/marketplace-frontend.git
+	branch = main

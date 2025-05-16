@@ -2,6 +2,10 @@
 
 A full-stack marketplace application built with Next.js (frontend) and NestJS (backend).
 
+## 📊 System Architecture
+
+![System Architecture](images/system-architecture.svg)
+
 ## 🚀 Live Demo
 
 - Frontend: [https://marketplace-frontend-woad-kappa.vercel.app](https://marketplace-frontend-woad-kappa.vercel.app)

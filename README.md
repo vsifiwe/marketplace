@@ -4,7 +4,7 @@ A full-stack marketplace application built with Next.js (frontend) and NestJS (b
 
 ## 📊 System Architecture
 
-![System Architecture](images/system-architecture.svg)
+![System Architecture](images/chart.svg)
 
 ## 🚀 Live Demo
 
